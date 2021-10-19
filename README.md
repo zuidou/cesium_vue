@@ -39,5 +39,5 @@ npm run build
 
 ## 三、项目运行效果
 
-![](.\public\Snipaste_2021-10-19_09-31-22.jpg)
+![](https://github.com/zuidou/cesium_vue/blob/main/public/Snipaste_2021-10-19_09-31-22.jpg)
 
