@@ -4,7 +4,7 @@
 
 <script>
 import * as Cesium from "cesium";
-import "../assets/cesium/Build/Cesium/Widgets/widgets.css";
+import "../../public/cesium/Build/Cesium/Widgets/widgets.css";
 
 export default {
   name: "Home",
